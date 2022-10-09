@@ -6,7 +6,6 @@ In this project I have used Remix IDE to create a smart contract.
 
 I have used these to create my project as required on Final Case assignment
 - Function
-- Mapping
 - Array
 - Constructor
 - Struct
